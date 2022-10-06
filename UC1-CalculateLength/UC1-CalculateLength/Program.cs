@@ -10,8 +10,8 @@ namespace UC1_CalculateLength
     {
         static void Main(string[] args)
         {
-            //taking the user inputs for co-ordinates of line 1
-            Console.WriteLine("Enter coordinate of line-1\n" + "Enter x1 point");
+            //taking the user inputs for co-ordinates of line 
+            Console.WriteLine("Enter coordinate of line\n" + "Enter x1 point");
             int x1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter x2 point");
             int x2 = Convert.ToInt32(Console.ReadLine());
@@ -23,7 +23,7 @@ namespace UC1_CalculateLength
 
             //computing the length of line 1
             double length = Math.Sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
-            Console.WriteLine($"Length of line-1 ( {x1},{y1} ),( {x2},{y2} ) = {length}");
+            Console.WriteLine($"Length of line ( {x1},{y1} ),( {x2},{y2} ) = {length}");
             Console.ReadLine();
         }
     }
