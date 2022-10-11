@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\LineComparison_Using_Classes\LineComparison_Using_Classes\LineComparison_Using_Classes\obj\Debug\LineComparison_Using_Classes.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\LineComparison_Using_Classes\LineComparison_Using_Classes\LineComparison_Using_Classes\obj\Debug\LineComparison_Using_Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\LineComparison_Using_Classes\LineComparison_Using_Classes\LineComparison_Using_Classes\obj\Debug\LineComparison_Using_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\LineComparison_Using_Classes\LineComparison_Using_Classes\LineComparison_Using_Classes\bin\Debug\LineComparison_Using_Classes.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\LineComparison_Using_Classes\LineComparison_Using_Classes\LineComparison_Using_Classes\bin\Debug\LineComparison_Using_Classes.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\LineComparison_Using_Classes\LineComparison_Using_Classes\LineComparison_Using_Classes\bin\Debug\LineComparison_Using_Classes.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\LineComparison_Using_Classes\LineComparison_Using_Classes\LineComparison_Using_Classes\obj\Debug\LineComparison_Using_Classes.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\LineComparison_Using_Classes\LineComparison_Using_Classes\LineComparison_Using_Classes\obj\Debug\LineComparison_Using_Classes.pdb
